@@ -1,0 +1,23 @@
+---
+title: "Hans-Rudolf Hotz"
+image: hrhotz_small.jpg
+about:
+    template: jolla
+    links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/hrhotz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hans-rudolf-hotz-542b31/
+    - icon: envelope
+      text: Email
+      href: mailto:hrhotz@googlemail.com
+---
+
+This is a Test for our workshop
+
+
+```{r}
+1 + 1
+```
